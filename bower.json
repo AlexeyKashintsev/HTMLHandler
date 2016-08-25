@@ -1,0 +1,22 @@
+{
+  "name": "HTMLHandler",
+  "main": "HTMLHandler.js",
+  "homepage": "https://github.com/AlexeyKashintsev/HTMLHandler",
+  "authors": [
+    "Alexey Kashintsev <ak@altsoft.biz>"
+  ],
+  "description": "Some functions to handle HTML DOM wothout any frameworks",
+  "keywords": [
+    "HTML",
+    "DOM",
+    "element"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
